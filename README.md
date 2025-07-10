@@ -294,14 +294,14 @@ Chúng tôi hoan nghênh mọi đóng góp! Vui lòng đọc [CONTRIBUTING.md](C
 ### 👨‍💻 Tác giả
 **Hồ Việt Anh**
 - 🏢 Chủ nhiệm HCM UTE Research on Technology and Innovation Club
-- 📧 Email: [your-email@example.com]
-- 🌐 Facebook: [HCM UTE RTIC](https://www.facebook.com/hcmute.rtic)
+- 📧 Email: [hovietanh@andyanh.id.vn]
+- 🌐 Facebook: [HCM UTE RTIC]([https://www.facebook.com/hcmute.rtic](https://www.facebook.com/andy.anh17405/))
 - 💼 LinkedIn: [Your LinkedIn Profile]
 
 ### 🏢 Tổ chức
 **HCM UTE Research on Technology and Innovation Club**
 - 🌐 Website: [Club Website]
-- 📧 Email: [club-email@example.com]
+- 📧 Email: [rtic@hcmute.fit]
 - 📱 Facebook: [https://www.facebook.com/hcmute.rtic](https://www.facebook.com/hcmute.rtic)
 
 ### 💬 Hỗ trợ dịch vụ
