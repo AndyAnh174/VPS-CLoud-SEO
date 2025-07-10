@@ -52,9 +52,11 @@ export default function Profile() {
                   {/* Organization Info */}
                   <div className="bg-gradient-to-r from-blue-50 to-blue-100 rounded-lg p-6 mb-6">
                     <div className="flex items-center justify-center md:justify-start space-x-3 mb-3">
-                      <div className="rounded-full bg-blue-600 p-2">
-                        <Users className="h-5 w-5 text-white" />
-                      </div>
+                      <img 
+                        src="/rtic-logo.jpg" 
+                        alt="RTIC Logo"
+                        className="w-10 h-10 rounded-lg object-cover shadow-sm"
+                      />
                       <h4 className="text-xl font-bold text-gray-900">
                         HCM UTE Research on Technology and Innovation Club
                       </h4>
@@ -89,11 +91,11 @@ export default function Profile() {
               <div className="mt-8 pt-8 border-t border-blue-200">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
                   <div className="space-y-2">
-                    <div className="text-2xl font-bold text-blue-600">5+</div>
+                    <div className="text-2xl font-bold text-blue-600">2+</div>
                     <div className="text-gray-600">Năm kinh nghiệm</div>
                   </div>
                   <div className="space-y-2">
-                    <div className="text-2xl font-bold text-blue-600">100+</div>
+                    <div className="text-2xl font-bold text-blue-600">30+</div>
                     <div className="text-gray-600">Sinh viên hỗ trợ</div>
                   </div>
                   <div className="space-y-2">

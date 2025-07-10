@@ -34,6 +34,7 @@ export default function Hero() {
             <Button
               size="lg"
               className="bg-white text-blue-600 hover:bg-blue-50 font-semibold text-lg px-8 py-4 h-auto transition-all duration-300 hover:scale-105 hover:shadow-2xl"
+              onClick={() => window.open('https://facebook.com/andy.anh17405/', '_blank')}
             >
               <Zap className="mr-2 h-5 w-5" />
               Liên hệ qua Zalo hoặc Facebook
