@@ -19,11 +19,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Cloud, VPS, Hosting cho sinh viên | Rẻ - Ổn định - Có backup',
     description: 'Dịch vụ thuê Cloud, VPS, Hosting cho sinh viên: Miễn phí 3 tháng với cấu hình mạnh mẽ. Có gói dùng lâu dài, sao lưu định kỳ, tốc độ mạng 300Mbps.',
-    url: 'https://your-domain.com',
+    url: 'https://net.andyanh.site',
     siteName: 'Cloud VPS Student Service',
     images: [
       {
-        url: 'https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200',
+        url: 'https://net.andyanh.site/anh-dai-dien.jpg',
         width: 1200,
         height: 630,
         alt: 'Cloud VPS Hosting Service',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cloud, VPS, Hosting cho sinh viên | Rẻ - Ổn định - Có backup',
     description: 'Dịch vụ thuê Cloud, VPS, Hosting cho sinh viên: Miễn phí 3 tháng với cấu hình mạnh mẽ. Có gói dùng lâu dài, sao lưu định kỳ, tốc độ mạng 300Mbps.',
-    images: ['https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200'],
+    images: ['https://net.andyanh.site/rtic-logo.jpg'],
   },
   robots: {
     index: true,
