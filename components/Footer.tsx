@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
             <div className="mt-6 flex space-x-4">
               <a
-                href="https://facebook.com/cloudvpsservice"
+                href="https://facebook.com/andy.anh17405/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors duration-200"

@@ -94,7 +94,7 @@ export default function Contact() {
                     }`}
                     onMouseEnter={() => setHoveredButton('facebook')}
                     onMouseLeave={() => setHoveredButton(null)}
-                    onClick={() => window.open('https://facebook.com/cloudvpsservice', '_blank')}
+                    onClick={() => window.open('https://www.facebook.com/andy.anh17405/', '_blank')}
                   >
                     <Facebook className="mr-2 h-5 w-5" />
                     Liên hệ qua Facebook
