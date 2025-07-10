@@ -24,11 +24,13 @@ export default function Profile() {
           <Card className="overflow-hidden bg-gradient-to-br from-blue-50 to-white border-0 shadow-2xl">
             <CardContent className="p-8">
               <div className="flex flex-col md:flex-row items-center md:items-start space-y-6 md:space-y-0 md:space-x-8">
-                {/* Profile Image Placeholder */}
+                {/* Profile Image */}
                 <div className="flex-shrink-0">
-                  <div className="w-32 h-32 rounded-full bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center shadow-lg">
-                    <User className="w-16 h-16 text-white" />
-                  </div>
+                  <img 
+                    src="/anh-dai-dien.jpg" 
+                    alt="Hồ Việt Anh"
+                    className="w-32 h-32 rounded-full object-cover shadow-lg border-4 border-white"
+                  />
                 </div>
 
                 {/* Profile Information */}

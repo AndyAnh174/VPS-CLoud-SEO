@@ -54,7 +54,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300">
               <li>Zalo: 0949000030</li>
               <li>Facebook: Cloud VPS Service</li>
-              <li>Email: support@cloudvps.com</li>
+              <li>Email: hovietanh@andyanh.id.vn</li>
               <li>Hỗ trợ: 24/7</li>
             </ul>
           </div>
@@ -62,9 +62,9 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400 flex items-center justify-center space-x-1">
-            <span>© 2024 Cloud VPS Service. Made with</span>
+            <span>© 2024 Cloud VPS Service. Made with AndyAnh174</span>
             <Heart className="h-4 w-4 text-red-500" />
-            <span>for students in Vietnam</span>
+            <span>for students in HCMUTE</span>
           </p>
         </div>
       </div>
